@@ -1,7 +1,9 @@
 .nav_bar{
     text-align: center;
+    color: black;
     font-size: 25px;
-    background-color: blue;
+    background-color: rgb(191, 191, 191);
+
 }
 
 .nav_bar{
