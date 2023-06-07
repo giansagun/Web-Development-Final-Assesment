@@ -1,0 +1,44 @@
+.nav_bar{
+    text-align: center;
+    font-size: 25px;
+    background-color: blue;
+}
+
+.nav_bar{
+    width: 1300px;
+    display:block;
+    justify-content: center;
+}
+
+.nav_bar ul li{
+	list-style: none;
+	display: inline-block;
+	margin: inline-block;
+	margin:0 20px;
+	position: relative;
+}
+
+.nav_bar ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 75px;
+    text-align: left;
+}
+
+body{
+    background-color: grey;
+    color: white;
+}
+
+img{
+    width: 1300px;
+    height: fit-content;
+}

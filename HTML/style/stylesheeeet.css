@@ -1,0 +1,246 @@
+.nav_bar{
+    text-align: center;
+    font-size: 25px;
+    background-color: blue;
+}
+
+.nav_bar{
+    width: 1300px;
+    display:block;
+    justify-content: center;
+}
+
+.nav_bar ul li{
+	list-style: none;
+	display: inline-block;
+	margin: inline-block;
+	margin:0 20px;
+	position: relative;
+}
+
+.nav_bar ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 75px;
+    text-align: left;
+}
+
+.my-button {
+    background-color: #00cd14;
+    color: rgb(255, 255, 255); 
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 20px; 
+    position: relative;
+    top: -70px;
+    left: 200px;
+}
+
+.my-button:hover {
+    background-color: #188200; 
+}
+
+.p1{
+    width: 200px;
+    height: 40px;
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: -30px;
+}
+
+.p2{
+    width: 200px;
+    height: 40px;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: -45px;
+    text-align: center;
+}
+
+.p3{
+    width: 200px;
+    height: 40px;
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 970px;
+    margin-top: -45px;
+}
+
+.oxvacoils{
+    width: 350px;
+    height: 400px;
+}
+
+.oxvakits{
+    width: 350px;
+    height: 400px;
+    margin-left: 220px;
+    margin-top: -300px;
+}
+
+.oxvatanks{
+    width: 350px;
+    height: 400px;
+    margin-left: 410px;
+    margin-top: -300px;
+}
+.oxvapods{
+    width: 350px;
+    height: 400px;
+    margin-left: 640px;
+    margin-top: -300px;
+}
+
+.oxvaaccessories{
+    width: 350px;
+    height: 400px;
+    margin-left: 900px;
+    margin-top: -300px;
+}
+
+.my-button1{
+    background-color: #00cd14;
+    color: rgb(255, 255, 255); 
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 20px; 
+    position: relative;
+    top: -100px;
+    left: 130px;
+}
+
+.my-button1:hover {
+    background-color: #188200; 
+}
+
+.my-button2{
+    background-color: #00cd14;
+    color: rgb(255, 255, 255); 
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 20px; 
+    position: relative;
+    top: -85px;
+    left: 130px;
+}
+
+.my-button2:hover {
+    background-color: #188200; 
+}
+
+.my-button3{
+    background-color: #00cd14;
+    color: rgb(255, 255, 255); 
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 20px; 
+    position: relative;
+    top: -80px;
+    left: 130px;
+}
+
+.my-button3:hover {
+    background-color: #188200; 
+}
+
+.my-button4{
+    background-color: #00cd14;
+    color: rgb(255, 255, 255); 
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 20px; 
+    position: relative;
+    top: -80px;
+    left: 130px;
+}
+
+.my-button4:hover {
+    background-color: #188200; 
+}
+
+.my-button5{
+    background-color: #00cd14;
+    color: rgb(255, 255, 255); 
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 20px; 
+    position: relative;
+    top: -80px;
+    left: 130px;
+}
+
+.my-button5:hover {
+    background-color: #188200; 
+}
+
+.p4{
+    width: 150px;
+    height: 20px;
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: -140px;
+}
+
+.p5{
+    width: 150px;
+    height: 20px;
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 320px;
+    margin-top: -125px;
+}
+
+.p6{
+    width: 150px;
+    height: 20px;
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 515px;
+    margin-top: -125px;
+}
+
+.p7{
+    width: 150px;
+    height: 20px;
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 740px;
+    margin-top: -125px;
+}
+
+.p8{
+    width: 150px;
+    height: 20px;
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 1000px;
+    margin-top: -125px;
+}
+
+body{
+    background-color: #BFC1C2;
+}
